@@ -1,4 +1,4 @@
-							                     																													              **Alcance**
+**Alcance**
 
 El proyecto **NexaOps – Módulo de Trazabilidad y Bitácoras** busca resolver un problema crítico en la empresa **NexaServicios S.A.S.**: la falta de organización y evidencia en la gestión de solicitudes internas. Actualmente, las tareas se manejan por WhatsApp, correos electrónicos y archivos Excel sin control, lo que genera pérdida de información, conflictos entre equipos y dificultad para auditar procesos.
 
